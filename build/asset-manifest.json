@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8befd6e7.chunk.css",
+    "main.js": "/static/js/main.aa76f3c9.chunk.js",
+    "main.js.map": "/static/js/main.aa76f3c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.23a2f924.js",
+    "runtime-main.js.map": "/static/js/runtime-main.23a2f924.js.map",
+    "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
+    "static/js/2.2c2bdf8b.chunk.js": "/static/js/2.2c2bdf8b.chunk.js",
+    "static/js/2.2c2bdf8b.chunk.js.map": "/static/js/2.2c2bdf8b.chunk.js.map",
+    "static/js/3.24019980.chunk.js": "/static/js/3.24019980.chunk.js",
+    "static/js/3.24019980.chunk.js.map": "/static/js/3.24019980.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
+    "static/css/main.8befd6e7.chunk.css.map": "/static/css/main.8befd6e7.chunk.css.map",
+    "static/js/2.2c2bdf8b.chunk.js.LICENSE.txt": "/static/js/2.2c2bdf8b.chunk.js.LICENSE.txt",
+    "static/media/AlegreyaSansSC-Bold.46e42da4.ttf": "/static/media/AlegreyaSansSC-Bold.46e42da4.ttf",
+    "static/media/Courgette-Regular.af9c15cb.ttf": "/static/media/Courgette-Regular.af9c15cb.ttf",
+    "static/media/Nunito-Light.abdadce6.ttf": "/static/media/Nunito-Light.abdadce6.ttf",
+    "static/media/OpenSans-Light.ed41bedf.ttf": "/static/media/OpenSans-Light.ed41bedf.ttf",
+    "static/media/UbuntuMono-Italic.b6769d45.ttf": "/static/media/UbuntuMono-Italic.b6769d45.ttf",
+    "static/media/anjali.65c9d6fe.png": "/static/media/anjali.65c9d6fe.png",
+    "static/media/ResumeCreate.css": "/static/media/bg_small.e72e3d5c.svg",
+    "static/media/Demo.css": "/static/media/card3_opened.dcb118d4.svg",
+    "static/media/gayathry.0b092934.png": "/static/media/gayathry.0b092934.png",
+    "static/media/hemanth.0d09af1f.png": "/static/media/hemanth.0d09af1f.png",
+    "static/media/shimil.e510d431.png": "/static/media/shimil.e510d431.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/template1.6394a830.png": "/static/media/template1.6394a830.png",
+    "static/media/template2.477eaf44.png": "/static/media/template2.477eaf44.png",
+    "static/media/upload.a45eafd0.svg": "/static/media/upload.a45eafd0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23a2f924.js",
+    "static/css/2.19627560.chunk.css",
+    "static/js/2.2c2bdf8b.chunk.js",
+    "static/css/main.8befd6e7.chunk.css",
+    "static/js/main.aa76f3c9.chunk.js"
+  ]
+}
